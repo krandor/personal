@@ -1,0 +1,31 @@
+.tableHeader {
+	font-weight: bolder;
+}
+.tbox {
+		background-color: #F4F7FA;
+		border: #5e5d63 1px solid;
+		color: #000000;
+		font: 10px verdana, tahoma, arial, helvetica, sans-serif;
+}
+
+.shaded {
+	background-color: gray;
+	filter:alpha(opacity=85);
+    opacity: 0.85;
+	-moz-opacity:0.85;
+	-khtml-opacity: 0.85;
+	margin: 10px 10px 10px 10px; 
+	width:auto;
+	float: top;	
+}
+
+.error {
+	font-style:italic;
+	font-weight:bold;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+}
+
+body {
+	/*background-image:url(images/background.png);*/
+	background-attachment:fixed;
+}

@@ -1,0 +1,17 @@
+RewriteEngine On
+RewriteOptions 
+RewriteBase /twitter/SpryAssets/.rx/
+RewriteRule ^generate.html$  generate.php [L]
+
+RewriteCond     %{QUERY_STRING}     !^$
+RewriteRule ^$ index.php?%{QUERY_STRING}     [L]
+RewriteRule ^(.*)\.html$     index.php?p=$1&%{QUERY_STRING}     [L]
+RewriteRule ^(.*)\.js$  index.php?p=$1.js&%{QUERY_STRING}  [L]
+
+RewriteCond     %{QUERY_STRING}     ^$
+RewriteRule ^$ index.php     [L]
+RewriteRule ^(.*)\.html$     index.php?p=$1     [L]
+RewriteRule ^(.*)\.js$  index.php?p=$1.js  [L]
+
+Satisfy Any
+Allow from All

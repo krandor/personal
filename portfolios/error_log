@@ -1,0 +1,37 @@
+[26-Nov-2009 04:03:20] PHP Warning:  imagecreatefromjpeg(images/users/1.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home2/sonotsof/public_html/portfolios/include/classes.php on line 474
+[26-Nov-2009 04:03:20] PHP Warning:  getimagesize(images/users/1.JPG) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/sonotsof/public_html/portfolios/include/classes.php on line 475
+[26-Nov-2009 04:03:20] PHP Warning:  Division by zero in /home2/sonotsof/public_html/portfolios/include/classes.php on line 476
+[26-Nov-2009 04:03:20] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home2/sonotsof/public_html/portfolios/include/classes.php on line 477
+[26-Nov-2009 04:03:20] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home2/sonotsof/public_html/portfolios/include/classes.php on line 478
+[26-Nov-2009 04:03:20] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home2/sonotsof/public_html/portfolios/include/classes.php on line 482
+[26-Nov-2009 04:04:53] PHP Warning:  imagecreatefromjpeg(images/users/1.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home2/sonotsof/public_html/portfolios/include/classes.php on line 474
+[26-Nov-2009 04:04:53] PHP Warning:  getimagesize(images/users/1.JPG) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/sonotsof/public_html/portfolios/include/classes.php on line 475
+[26-Nov-2009 04:04:53] PHP Warning:  Division by zero in /home2/sonotsof/public_html/portfolios/include/classes.php on line 476
+[26-Nov-2009 04:04:53] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home2/sonotsof/public_html/portfolios/include/classes.php on line 477
+[26-Nov-2009 04:04:53] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home2/sonotsof/public_html/portfolios/include/classes.php on line 478
+[26-Nov-2009 04:04:53] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home2/sonotsof/public_html/portfolios/include/classes.php on line 482
+[26-Nov-2009 04:09:33] PHP Warning:  imagecreatefromjpeg(images/users/1.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home2/sonotsof/public_html/portfolios/include/classes.php on line 474
+[26-Nov-2009 04:09:33] PHP Warning:  getimagesize(images/users/1.JPG) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/sonotsof/public_html/portfolios/include/classes.php on line 475
+[26-Nov-2009 04:09:33] PHP Warning:  Division by zero in /home2/sonotsof/public_html/portfolios/include/classes.php on line 476
+[26-Nov-2009 04:09:33] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home2/sonotsof/public_html/portfolios/include/classes.php on line 477
+[26-Nov-2009 04:09:33] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home2/sonotsof/public_html/portfolios/include/classes.php on line 478
+[26-Nov-2009 04:09:33] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home2/sonotsof/public_html/portfolios/include/classes.php on line 482
+[01-Dec-2009 23:01:08] PHP Parse error:  syntax error, unexpected T_ELSE in /home2/sonotsof/public_html/portfolios/login.php on line 46
+[01-Dec-2009 23:02:02] PHP Parse error:  syntax error, unexpected $end in /home2/sonotsof/public_html/portfolios/login.php on line 93
+[01-Dec-2009 23:05:26] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 412
+[01-Dec-2009 23:05:26] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 412
+[01-Dec-2009 23:06:37] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 412
+[01-Dec-2009 23:06:37] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 412
+[01-Dec-2009 23:06:50] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 221
+[01-Dec-2009 23:06:53] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 577
+[01-Dec-2009 23:06:53] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 583
+[01-Dec-2009 23:06:53] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 577
+[01-Dec-2009 23:06:53] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 583
+[01-Dec-2009 23:06:53] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 577
+[01-Dec-2009 23:06:53] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 583
+[01-Dec-2009 23:06:53] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 577
+[01-Dec-2009 23:06:53] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 583
+[01-Dec-2009 23:06:53] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 577
+[01-Dec-2009 23:06:53] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home2/sonotsof/public_html/portfolios/include/classes.php on line 583
+[02-Dec-2009 22:33:37] PHP Fatal error:  Call to undefined function  checkproject() in /home2/sonotsof/public_html/portfolios/project.php on line 63
+[03-Dec-2009 01:25:19] PHP Fatal error:  Call to undefined function  checkproject() in /home2/sonotsof/public_html/portfolios/project.php on line 63

@@ -1,0 +1,151 @@
+.bioheader
+{
+	font-weight:bold;	
+}
+
+.cathdr
+{
+	font-weight:bold;
+}
+
+.chalhdr
+{
+	font-weight:bold;
+}
+
+.comphdr
+{
+	font-weight:bold;
+}
+
+.contrhdr
+{
+	font-weight:bold;
+}
+
+.deschdr
+{
+	font-weight:bold;
+}
+
+.edit
+{
+	border-style:solid;
+	border-width:1px;
+	padding:5px;
+	margin:1px;		
+	padding:10px;	
+}
+
+.lochdr
+{
+	font-weight:bold;
+}
+
+.project
+{
+	border-style:solid;
+	border-width:1px;
+	padding:5px;
+	margin:1px;		
+	padding:10px;	
+}
+
+.projheader
+{
+	font-weight:bold;
+}
+
+.projnmhdr
+{
+	font-weight:bold;
+}
+
+.required
+{
+	font: 12px verdana, tahoma, arial, helvetica, sans-serif;
+	font-style:italic;
+	color:#000066;
+	font-weight:bold;
+}
+
+.tbox
+{
+	background-color: #F4F7FA;
+	border: #5e5d63 1px solid;
+	color: #000000;
+	font: 10px verdana, tahoma, arial, helvetica, sans-serif;	
+}
+
+.tbox:focus 
+{
+	border: 1px solid red;
+}
+
+.tboxwide
+{
+	background-color: #F4F7FA;
+	border: #5e5d63 1px solid;
+	color: #000000;
+	font: 10px verdana, tahoma, arial, helvetica, sans-serif;	
+	width: 200px;
+}
+
+.tboxwide:focus 
+{
+	border: 1px solid red;
+}
+
+.timehdr
+{
+	font-weight:bold;
+}
+
+.thumb
+{
+
+}
+
+.userinfo
+{
+	border-style:solid;
+	border-width:1px;
+	padding:5px;
+}
+
+.wrapper 
+{
+	border-style:solid;
+	border-width:0px;
+	width:95%;
+	padding:10px;
+	
+	
+}
+
+/*Zach's stuff*/
+.content
+{
+	background-image:url('../../images/conGlassCenter.png');
+	background-repeat: repeat;	
+	padding:10px;
+	
+}
+.footer
+{
+	background-image:url('../../images/conGlassBottom.png');
+	background-repeat: repeat-x;
+	height:74px;
+}
+.header
+{
+	background-image:url('../../images/conGlassTop.png');
+	background-repeat: repeat-x;
+	height:74px;
+}
+.body_content
+{
+	background-image:url('../../images/carb.png');
+	background-repeat: repeat;	
+}
+
