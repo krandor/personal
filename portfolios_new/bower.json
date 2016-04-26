@@ -1,0 +1,22 @@
+{
+  "name": "portfolios_new",
+  "homepage": "https://github.com/krandor/personal",
+  "description": "application to manage professional portfolio",
+  "main": "index.html",
+  "keywords": [
+    "resume",
+    "portfolio",
+    "manager"
+  ],
+  "authors": [
+    "krandor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
